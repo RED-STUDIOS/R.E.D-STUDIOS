@@ -1,0 +1,141 @@
+.body {
+	background-color: rgb(44, 44, 44);
+}
+.UpperBar {
+	background-color: rgb(22, 22, 22);
+	position: fixed;
+	width: 100%;
+	height: 70px;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+}
+.Logo {
+	height: 200%;
+	width: 10%;
+	margin-top: -2%;
+	display: flex;
+}
+.Home {
+	position: fixed;
+	color: white;
+	font-size: 26px;
+	top: 13px;
+	left: 38%;
+	text-decoration: none;
+}
+.Games {
+	position: fixed;
+	color: white;
+	font-size: 26px;
+	top: -1000px;
+	left: 36%;
+	text-decoration: none;
+}
+.Donations {
+	position: fixed;
+	color: white;
+	font-size: 26px;
+	top: 13px;
+	left: 48%;
+	text-decoration: none;
+}
+.ContactUs {
+	position: fixed;
+	color: white;
+	font-size: 26px;
+	top: 13px;
+	left: 60%;
+	text-decoration: none;
+}
+.About {
+	position: fixed;
+	color: white;
+	font-size: 26px;
+	top: 13px;
+	left: 72%;
+	text-decoration: none;
+}
+.Credits {
+	position: fixed;
+	color: white;
+	font-size: 26px;
+	top: 13px;
+	left: 82%;
+	text-decoration: none;
+}
+
+
+.AboutText {
+	width: 60%;
+	text-align: center;
+	margin-left: 20%;
+	margin-top: 95px;
+	color: white;
+}
+.CLS {
+	text-decoration: none;
+	color: darkred;
+}
+
+.DONO {
+	margin-top: 3%;
+	margin-left: 30%;
+	width: 40%;
+	background-color: rgb(22, 22, 22);
+	padding: 1px;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	font-size: 26px;
+	border-radius: 100px;
+}
+
+.MainGame {
+	width: 80%;
+	margin-left: 10%;
+	height: 40%;
+	margin-top: 10%;
+	background-color: rgb(22, 22, 22);
+	border-radius: 20px;
+	display: flex;
+}
+
+.img {
+	height: 30%;
+	width: 30%;
+	border-radius: 20px;
+	display: flex;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 120px;
+	margin-right: 20px;
+}
+.MainTital {
+	display: flex;
+	color: white;
+	font-size: 20px;
+	margin-left: -10px;
+	margin-top: 100px;
+}
+
+.tital {
+	position: fixed;
+	left: 55%;
+	width: 100%;
+	color: white;
+	font-size: 36px;
+
+}
+
+.playbutton {
+	background-color: green;
+	width: 40%;
+	height: 10%;
+	padding: 10px;
+	font-size: 30px;
+	border-radius: 100px;
+	border-width: 0px;
+	position: fixed;
+	top: 78%;
+}
